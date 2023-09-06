@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53038898425",
+    "project_id": "kotak-profile-details",
+    "storage_bucket": "kotak-profile-details.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53038898425:android:93448729d02b664a9e9628",
+        "android_client_info": {
+          "package_name": "com.example.kotakprofilesettingpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53038898425-23e059ntio6lo7859k00jt2hlftnmlhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotakprofilesettingpage",
+            "certificate_hash": "0408e79ab4980808281845e82d3b431a0d0c733b"
+          }
+        },
+        {
+          "client_id": "53038898425-5sehf3rt572usb4tclmcmu6jjse3nq2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB63terMrL1qcud6zbjY7y6gHyDhks9Hvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53038898425-5sehf3rt572usb4tclmcmu6jjse3nq2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
